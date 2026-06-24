@@ -158,14 +158,6 @@ const PasswordGenerator = () => {
       </div>
 
       <div className="footer-section">
-        <a
-          href="https://digitalheroesco.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="digital-heroes-btn"
-        >
-          Built for Digital Heroes
-        </a>
         <div className="user-info">
           Developed by <strong>Suryansh Chauhan</strong> | <a href="mailto:suryanshr38@gmail.com">suryanshr38@gmail.com</a>
         </div>
